@@ -1,2 +1,2 @@
 # ExcelWithDaniel
-Data projects in excel, from beginner to advanced
+Projects in Microsoft Excel, from beginner to advanced.
